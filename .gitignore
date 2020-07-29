@@ -1,0 +1,4 @@
+/.vscode
+*/obj/*
+*/bin/*
+src/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
